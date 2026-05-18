@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_element">
+    <sys_ui_element action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_display_order/>
+        <array_size/>
+        <attributes/>
+        <column_label>AI Field</column_label>
+        <column_name>ai_field</column_name>
+        <display>false</display>
+        <display_type/>
+        <element_type>field</element_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_2056650_ai_ser_0_ai_table</name>
+        <position>0</position>
+        <read_only>false</read_only>
+        <reference/>
+        <sys_class_name>sys_ui_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-18 09:20:00</sys_created_on>
+        <sys_id>58ed7e383f00b101215c430ceaad3ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ai_field</sys_name>
+        <sys_package display_value="AI_ServiceNow_App" source="x_2056650_ai_ser_0">598ed7e383f00b101215c430ceaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI_ServiceNow_App">598ed7e383f00b101215c430ceaad363</sys_scope>
+        <sys_update_name>sys_ui_element_58ed7e383f00b101215c430ceaad3ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-18 09:20:00</sys_updated_on>
+        <sys_ui_section display_value="">c8ed7e383f00b101215c430ceaad3e3</sys_ui_section>
+        <sys_user/>
+        <type/>
+        <value/>
+        <view display_value="Default view">Default view</view>
+        <view_name/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_display_order/>
+        <array_size/>
+        <attributes/>
+        <column_label>Verification Status</column_label>
+        <column_name>verification_status</column_name>
+        <display>false</display>
+        <display_type/>
+        <element_type>field</element_type>
+        <mandatory>false</mandatory>
+        <max_length>100</max_length>
+        <name>x_2056650_ai_ser_0_ai_table</name>
+        <position>1</position>
+        <read_only>false</read_only>
+        <reference/>
+        <sys_class_name>sys_ui_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-18 09:20:00</sys_created_on>
+        <sys_id>68ed7e383f00b101215c430ceaad3ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>verification_status</sys_name>
+        <sys_package display_value="AI_ServiceNow_App" source="x_2056650_ai_ser_0">598ed7e383f00b101215c430ceaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI_ServiceNow_App">598ed7e383f00b101215c430ceaad363</sys_scope>
+        <sys_update_name>sys_ui_element_68ed7e383f00b101215c430ceaad3ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-18 09:20:00</sys_updated_on>
+        <sys_ui_section display_value="">c8ed7e383f00b101215c430ceaad3e3</sys_ui_section>
+        <sys_user/>
+        <type/>
+        <value/>
+        <view display_value="Default view">Default view</view>
+        <view_name/>
+    </sys_ui_element>
+</record_update>

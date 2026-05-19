@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary">
+    <sys_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <audit>false</audit>
+        <calculation/>
+        <defaultsort/>
+        <default_value/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_default/>
+        <element>blood_group</element>
+        <element_reference/>
+        <foreign_table/>
+        <internal_type>string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>10</max_length>
+        <name>x_2056650_ai_ser_0_ai_table</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-19 10:30:00</sys_created_on>
+        <sys_id>78ed7e383f00b101215c430ceaad3f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>blood_group</sys_name>
+        <sys_package display_value="AI_ServiceNow_App" source="x_2056650_ai_ser_0">598ed7e383f00b101215c430ceaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI_ServiceNow_App">598ed7e383f00b101215c430ceaad363</sys_scope>
+        <sys_update_name>sys_dictionary_78ed7e383f00b101215c430ceaad3f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-19 10:30:00</sys_updated_on>
+        <table_reference/>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <virtual>false</virtual>
+        <widget/>
+        <write_only>false</write_only>
+        <xml_cdata>false</xml_cdata>
+    </sys_dictionary>
+</record_update>
